@@ -9,7 +9,7 @@ This project uses deep learning (EfficientNetB0) and transfer learning to classi
 ## 📂 Dataset
 
 The dataset is not included in this repo due to size limits.  
-➡️ [Click here to download it from Google Drive](https://drive.google.com/file/d/1dEew1Hv-IWv9KFNkMw0c8ncYY_l8d_Dz/view?usp=sharing)
+➡️ [Click here to download it from Google Drive](https://drive.google.com/file/d/1dEew1Hv-IWv9KFNkMw0c8ncYY_l8d_Dz/view?usp=drive_link)
 
 After downloading, place `garbage-dataset.zip` in the same folder as the notebook and unzip it using the provided code.
 
