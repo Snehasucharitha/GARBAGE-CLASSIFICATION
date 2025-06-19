@@ -1,0 +1,15 @@
+# 📁 Dataset Information
+
+The dataset used for this project consists of thousands of images categorized into different garbage classes such as plastic, metal, glass, paper, etc.
+
+Due to GitHub's file size limitations, the dataset is not included directly in this repository.  
+You can download the complete dataset from the link below:
+
+👉 [Download Garbage Classification Dataset from Google Drive](https://drive.google.com/file/d/1dEew1Hv-IWv9KFNkMw0c8ncYY_l8d_Dz/view?usp=drive_link)
+
+After downloading:
+1. Place the zip file in your project folder.
+2. Unzip it before running the notebook.
+3. Ensure the path in your code matches the unzipped folder location.
+
+This dataset is used for training and validating a deep learning model using EfficientNetB0 architecture.
