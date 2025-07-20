@@ -31,7 +31,14 @@ After downloading, place `garbage-dataset.zip` in the same folder as the noteboo
   
 ## Sample Output screenshots:
 
+
+
+
 <img width="1885" height="1000" alt="Screenshot 2025-07-05 201932" src="https://github.com/user-attachments/assets/fef2fde7-7707-4c72-a8af-4bf3951771f4" />
+
+
+
+
 
 <img width="1893" height="1045" alt="Screenshot 2025-07-05 202051" src="https://github.com/user-attachments/assets/02db9e82-3c8e-4b53-88d2-46b46d08142d" />
 
